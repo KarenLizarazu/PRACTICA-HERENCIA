@@ -1,0 +1,14 @@
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfoInputs.cache
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfo.cs
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\Herencia.csproj.CoreCompileInputs.cache
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\bin\Debug\net8.0\Herencia.exe
+D:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\bin\Debug\net8.0\Herencia.deps.json
+D:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\bin\Debug\net8.0\Herencia.runtimeconfig.json
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\bin\Debug\net8.0\Herencia.dll
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\bin\Debug\net8.0\Herencia.pdb
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\Herencia.dll
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\refint\Herencia.dll
+d:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\Herencia.pdb
+D:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\Herencia.genruntimeconfig.cache
+D:\UCATEC\lenguajes-programacion\UCATEC-PRACTICA\Herencia\obj\Debug\net8.0\ref\Herencia.dll
